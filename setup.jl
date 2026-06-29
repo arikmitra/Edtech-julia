@@ -9,7 +9,13 @@ dependencies = [
     "CairoMakie",
     "BenchmarkTools",
     "StatsPlots",
-    "StatsBase"
+    "StatsBase",
+    "Clustering",
+    "NearestNeighbors",
+    "Flux",
+    "Random",
+    "Distributions",
+    "LinearAlgebra"
 ]
 
 # Install all packages
