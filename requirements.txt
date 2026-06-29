@@ -6,3 +6,9 @@ CairoMakie
 BenchmarkTools
 StatsPlots
 StatsBase
+Random
+Flux
+LinearAlgebra
+NearestNeighbors
+Clustering
+Distributions
